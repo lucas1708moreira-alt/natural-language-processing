@@ -1,5 +1,3 @@
-# natural-language-processing
-
 # Portfolio: Projetos de Data Science e IA (Quantum Finance)
 
 Este repositório contém o portfólio de projetos desenvolvidos durante o **MBA em Data Science e IA pela FIAP**. O objetivo central destes trabalhos é a aplicação de técnicas avançadas de análise de dados, Machine Learning e Processamento de Linguagem Natural (PLN) para resolver problemas reais no setor financeiro, atuando como parte do time de analistas da **Quantum Finance**.
